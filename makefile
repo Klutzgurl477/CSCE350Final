@@ -1,4 +1,4 @@
-all: quickSort inputFilegenerator averageTime
+all: quickSort inputFileGenerator averageTime
 
 quickSort: Patel_Yesha_QuickSort.cpp
 	g++ -o Patel_Yesha_QuickSort Patel_Yesha_QuickSort.cpp -std=c++17 -Wall
