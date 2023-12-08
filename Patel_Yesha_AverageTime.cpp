@@ -18,7 +18,7 @@
 
  int main(int argc, char* argv[]) {
 
-     std::ifstream executionFile("Patel_Yesha_executionTime.txt", std::ios_base::app);
+     std::ifstream executionFile("Patel_Yesha_executionTime.txt");
 
      if(!executionFile.is_open()) {
         std::cerr << "Error in opening Patel_Yesha_executionTime.txt" << endl;

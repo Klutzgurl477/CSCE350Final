@@ -12,4 +12,3 @@ averageTime: Patel_Yesha_AverageTime.cpp
 
 clean:
 	rm -f Patel_Yesha_QuickSort Patel_Yesha_InputFileGenerator Patel_Yesha_AverageTime
-
